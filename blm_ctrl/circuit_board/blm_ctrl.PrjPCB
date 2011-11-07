@@ -99,7 +99,7 @@ SCH_PrintColor=0
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
-OutputFileName=blm_ctrl.PrjPCB=E:\users\matthieu\Documents\projects\quadrocopter\blm_ctrl\circuit_board\blm_ctrl.pdf
+OutputFileName=blm_ctrl.PrjPCB=E:\users\matthieu\Documents\projects\open_quadro\blm_ctrl\circuit_board\blm_ctrl.pdf
 SCH_ExpandLogicalToPhysical=-1
 SCH_VariantName=[None]
 SCH_ExpandComponentDesignators=-1
