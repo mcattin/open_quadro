@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: blm_ctrl.PcbDoc   08.11.2011  23:55:00
+NCDrill File Report For: blm_ctrl.PcbDoc   09.11.2011  23:26:42
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,9 +8,9 @@ EIA File   : blm_ctrl.DRL
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        9.84mil (0.24994mm)      Round          43               291.95 Inch (7415.48 mm)
+T1        9.84mil (0.24994mm)      Round          43               291.89 Inch (7414.01 mm)
 T2        35.43mil (0.89992mm)     Round          4                285.15 Inch (7242.94 mm)
 ---------------------------------------------------------------------------
-Totals                                            47               577.10 Inch (14658.42 mm)
+Totals                                            47               577.05 Inch (14656.95 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

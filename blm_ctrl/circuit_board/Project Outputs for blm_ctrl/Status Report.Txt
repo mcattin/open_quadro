@@ -1,13 +1,5 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [blm_ctrl.PrjPCB]
-   Generated File[blm_ctrl.TXT]
-   Generated File[blm_ctrl.DRL]
-   Generated File[blm_ctrl.LDP]
-   Generated File[blm_ctrl.DRR]
 
-
-Files Generated   : 4
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 23:55:00 On 08.11.2011
+Finished Output Generation At 23:28:57 On 09.11.2011
