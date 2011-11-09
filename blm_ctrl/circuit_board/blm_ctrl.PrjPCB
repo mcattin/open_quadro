@@ -81,51 +81,57 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.DRL
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.BOM
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.DRR
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.CSV
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.EXTREP
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.DRL
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBL
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.DRR
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBO
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.EXTREP
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBP
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBL
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBS
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBO
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GM2
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBP
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTL
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GBS
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTO
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GM2
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTP
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTL
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTS
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTO
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.LDP
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTP
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.REP
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.GTS
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.RUL
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.LDP
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.REP
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.RUL
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for blm_ctrl\blm_ctrl.TXT
 
 [Generic_SmartPDF]
@@ -458,6 +464,8 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -473,6 +481,8 @@ OutputName4=Simple BOM
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType5=SinglePinNetReporter
 OutputName5=Report Single Pin Nets
 OutputDocumentPath5=
