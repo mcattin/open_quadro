@@ -1,0 +1,31 @@
+Bill of Material for blm_ctrl.PrjPCB
+On 09.11.2011 at 22:58:15
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     PAD_SMD_0.5x1MM    5    X6, X7, X8, X9, X10                               
+                     PAD_SMD_1x2MM   12    X11, X12, X13, X14, X17, X18                      
+                                           X20, X21, X22, X23, X24, X25
+                     PAD_SMD_2x3MM    5    X1, X2, X3, X4, X5                                
+ 12MHz               QUARTZ_SMD_CX5032    1    Y1                           Crystal Oscillator   
+ BAT54C              SOT95P240X130-3N    1    D1                           Dual Common Cathode Schottky Diodes 
+ Cap Pol2            1206             1    C11                          Polarized Capacitor (Axial) 
+ Cap Pol2            C00101           2    C9, C10                      Polarized Capacitor (Axial) 
+ Cap                 0603            16    C1, C2, C3, C4, C5, C6, C7   Capacitor            
+                                           C8, C12, C13, C14, C15, C16
+                                           C17, C18, C20
+ IRLR7843PBF         TO-252AA         3    T2, T4, T6                   N-CHANNEL MOSFET WITH DIODE 
+ Led                 0603_LED         5    H1, H2, H3, H4, H5           Led low current      
+ LPC1342/43-LQFP48   TSQFP50P900X900-48N    1    U5                                                
+ LT1117CST-5#PBF     SOT230P700X180-4N    1    IC1                          3-Terminal Regulator 1=GND 2=OUT 3=IN 4=OUT 
+ NTC                 0603             1    R35                          Temperature dependent resistor 
+ Res1                0603            38    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24, R25
+                                           R28, R29, R30, R31, R32, R33
+                                           R34, R36, R37, R38, R39, R40
+                                           R41
+ Res1                2512             1    R26                          Resistor             
+ SQD45P03-12-GE3     TO-252AA         3    T1, T3, T5                   P-CHANNEL MOSFET WITH DIODE 
+ TC4428A             SOIC127P600-8BN    3    U1, U2, U3                                        
